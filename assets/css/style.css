@@ -1,0 +1,28 @@
+body {
+	background-color: grey; 
+}
+.text-center {
+	font-weight: bold;
+	color: white;
+}
+
+label {
+	color: white;
+}
+
+.tvShowInput {
+	color: white;
+}
+
+.button-list {
+    margin: 15px 5px;
+}
+
+.button-submit {
+    margin-top: 10px;
+}
+
+.gif-margin {
+    margin-bottom: 25px;
+}
+
